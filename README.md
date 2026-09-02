@@ -19,7 +19,7 @@ O primeiro módulo apresenta os fundamentos da análise de dados, programação 
 
 ### 01 — Fundamentos de Análise de Dados
 
-**Repositório:** `01-fundamentos_analise_dados`
+**Repositório:** `semana01`
 
 📅 **Semana 01**
 
@@ -27,15 +27,15 @@ O primeiro módulo apresenta os fundamentos da análise de dados, programação 
 
 ### 02 — Lógica de Programação
 
-**Repositório:** `02-logica_programacao`
+**Repositório:** `semana02`
 
 📅 **Semana 02**
 
 ---
 
-### 03 — Python
+### 03 — Python e Miniprojeto
 
-**Repositório:** `03-python`
+**Repositório:** `semana03`, `semana04`, `semana05`, `semana06` e `semana07`
 
 📅 **Semanas 03 a 07**
 
@@ -43,7 +43,7 @@ O primeiro módulo apresenta os fundamentos da análise de dados, programação 
 
 ### 04 — Modelagem de Dados + SQL
 
-**Repositório:** `04-modelagem_dados_sql`
+**Repositório:** `semana08_10`
 
 📅 **Semanas 08 a 10**
 
@@ -51,7 +51,7 @@ O primeiro módulo apresenta os fundamentos da análise de dados, programação 
 
 ### 05 — Python + SQL
 
-**Repositório:** `05-python_sql`
+**Repositório:** `semana11_12`
 
 📅 **Semanas 11 e 12**
 
@@ -61,18 +61,18 @@ O primeiro módulo apresenta os fundamentos da análise de dados, programação 
 
 | Semana | Tema principal | Repositório |
 |:---:|---|---|
-| **01** | Fundamentos de Análise de Dados | `01-fundamentos_analise_dados` |
-| **02** | Lógica de Programação | `02-logica_programacao` |
-| **03** | Git, GitHub e Introdução ao Python | `03-python` |
-| **04** | Manipulação de Dados e Funções | `03-python` |
-| **05** | Pandas e NumPy | `03-python` |
-| **06** | Limpeza e Transformação de Dados | `03-python` |
-| **07** | Visualização, Web Scraping e Pipelines | `03-python` |
-| **08** | Bancos de Dados e Modelagem Conceitual | `04-modelagem_dados_sql` |
-| **09** | Modelagem Relacional e SQL Essencial | `04-modelagem_dados_sql` |
-| **10** | SQL Avançado | `04-modelagem_dados_sql` |
-| **11** | Python + PostgreSQL | `05-python_sql` |
-| **12** | ETL com Python + PostgreSQL | `05-python_sql` |
+| **01** | Fundamentos de Análise de Dados | `semana01` |
+| **02** | Lógica de Programação | `semana02` |
+| **03** | Git, GitHub e Introdução ao Python | `semana03` |
+| **04** | Manipulação de Dados e Funções | `semana04` |
+| **05** | Pandas e NumPy | `semana05` |
+| **06** | Limpeza e Transformação de Dados | `semana06` |
+| **07** | Visualização, Web Scraping e Pipelines (Miniprojeto) | `semana07` |
+| **08** | Bancos de Dados e Modelagem Conceitual | `semana08_10` |
+| **09** | Modelagem Relacional e SQL Essencial | `semana08_10` |
+| **10** | SQL Avançado | `semana08_10` |
+| **11** | Python + PostgreSQL | `semana11_12` |
+| **12** | ETL com Python + PostgreSQL | `semana11_12` |
 
 ---
 
@@ -83,23 +83,27 @@ MÓDULO 01
 │
 ├── Semana 01
 │   └── Fundamentos de Análise de Dados
-│       └── 01-fundamentos_analise_dados
+│       └── semana01
 │
 ├── Semana 02
 │   └── Lógica de Programação
-│       └── 02-logica_programacao
+│       └── semana02
 │
 ├── Semanas 03–07
-│   └── Python
-│       └── 03-python
+│   └── Python e Miniprojeto
+│       └── semana03
+|       └── semana04
+|       └── semana05
+|       └── semana06
+|       └── semana07
 │
 ├── Semanas 08–10
 │   └── Modelagem de Dados + SQL
-│       └── 04-modelagem_dados_sql
+│       └── semana08_10
 │
 └── Semanas 11–12
     └── Python + SQL
-        └── 05-python_sql
+        └── semana11_12
 ```
 
 ---
