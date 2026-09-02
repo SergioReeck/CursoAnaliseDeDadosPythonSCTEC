@@ -1,0 +1,28 @@
+[
+    {
+        "nome": "Ana",
+        "idade": 22,
+        "disciplinas": [
+            "Python",
+            "SQL",
+            "Power BI"
+        ]
+    },
+    {
+        "nome": "Carlos",
+        "idade": 25,
+        "disciplinas": [
+            "Excel",
+            "Python"
+        ]
+    },
+    {
+        "nome": "Fernanda",
+        "idade": 21,
+        "disciplinas": [
+            "Banco de Dados",
+            "Estatística",
+            "Machine Learning"
+        ]
+    }
+]

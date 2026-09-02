@@ -1,0 +1,38 @@
+=====================================================
+        RELATÓRIO DE VENDAS - JULHO/2026
+=====================================================
+
+Empresa: Loja ABC
+Gerado em: 01/08/2026 08:15
+
+Pedido #1001 | Data=01/07/2026 | Cliente: João Silva | Valor: R$ 1.250,50
+Pedido #1002 | Data=02/07/2026 | Cliente: Maria Souza | Valor: R$ 899,90
+Pedido #1003 | Data=03/07/2026 | Cliente: Carlos Lima | Valor: R$ 2.100,00
+
+*** Pedido cancelado pelo cliente ***
+Pedido #1004 | Data=03/07/2026 | Cliente: Ana Costa | Valor: R$ 450,00 | CANCELADO
+
+Pedido #1005 | Data=03/07/2026 | Cliente: Pedro Santos | Valor: R$ 799,90
+Pedido #1006 | Data=06/07/2026 | Cliente: Fernanda Alves | Valor: R$ 1.580,00
+Pedido #1007 | Data=07/07/2026 | Cliente: Lucas Pereira | Valor: R$ 320,50
+Pedido #1008 | Data=08/07/2026 | Cliente: Mariana Rocha | Valor: R$ 2.450,00
+
+-----------------------------------------------------
+
+Pedido #1009 | Data=09/07/2026 | Cliente: Rafael Lima | Valor: R$ 980,00
+Pedido #1010 | Data=10/07/2026 | Cliente: Juliana Martins | Valor: R$ 3.150,75
+
+*** Pedido cancelado pelo cliente ***
+Pedido #1011 | Data=10/07/2026 | Cliente: Roberto Souza | Valor: R$ 1.200,00 | CANCELADO
+
+Pedido #1012 | Data=13/07/2026 | Cliente: Camila Fernandes | Valor: R$ 670,00
+Pedido #1013 | Data=15/07/2026 | Cliente: Eduardo Gomes | Valor: R$ 2.890,40
+Pedido #1014 | Data=15/07/2026 | Cliente: Paula Oliveira | Valor: R$ 1.050,00
+Pedido #1015 | Data=20/07/2026 | Cliente: Felipe Mendes | Valor: R$ 540,90
+Pedido #1016 | Data=22/07/2026 | Cliente: Aline Ribeiro | Valor: R$ 4.320,00
+Pedido #1017 | Data=24/07/2026 | Cliente: Bruno Costa | Valor: R$ 1.780,00
+Pedido #1018 | Data=24/07/2026 | Cliente: Patrícia Lima | Valor: R$ 950,50
+Pedido #1019 | Data=27/07/2026 | Cliente: Ricardo Alves | Valor: R$ 1.499,99
+Pedido #1020 | Data=27/07/2026 | Cliente: Vanessa Souza | Valor: R$ 2.050,00
+
+================== FIM DO RELATÓRIO ==================
