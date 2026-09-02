@@ -1,2 +1,0 @@
-Notebook;3500
-Mouse;100
