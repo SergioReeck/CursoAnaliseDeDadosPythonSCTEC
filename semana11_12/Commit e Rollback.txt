@@ -1,0 +1,9 @@
+BEGIN TRANSACTION; 
+
+INSERT INTO public.produtos (codigo, nome, preco, estoque)
+VALUES ('TESTE-ERRO', 'Produto Temporario', 15.00, 1);
+
+SELECT * FROM public.produtos;
+
+COMMIT;
+ROLLBACK;
