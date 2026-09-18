@@ -13,5 +13,3 @@ SELECT * FROM categorias
 --UPDATE categorias SET nome = 'Periféricos' WHERE id_categoria = 3;
 --UPDATE categorias SET nome = 'Monitores' WHERE id_categoria = 4;
 --UPDATE categorias SET nome = 'Acessórios' WHERE id_categoria = 5;
-
--- Vídeo: 27:41

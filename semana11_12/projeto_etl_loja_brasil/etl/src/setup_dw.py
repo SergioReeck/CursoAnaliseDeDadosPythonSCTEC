@@ -10,3 +10,4 @@ def configurar_dw():
         conn.execute(text("CREATE SCHEMA IF NOT EXISTS gold"))
     
     print("Schemas do DW criados.")
+    

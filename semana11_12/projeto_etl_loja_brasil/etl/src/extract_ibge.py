@@ -36,4 +36,3 @@ def extrair_ibge():
 
     print("Extração da API IBGE concluída.")
     print("Dados gravados na camada BRONZE.")
-
