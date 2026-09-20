@@ -4,7 +4,7 @@ Nesta pasta encontram-se os materiais e os scripts desenvolvidos durante o estud
 
 ## Documentação da Semana 09
 
-Na pasta `04_sql_essencial` também está disponível o documento Word `SQL_Essencial_TechStore.docx`, que contém as instruções, explicações e atividades trabalhadas nas aulas da Semana 09.
+Na pasta `sql_essencial` também está disponível o documento Word `SQL_Essencial_TechStore.docx`, que contém as instruções, explicações e atividades trabalhadas nas aulas da Semana 09.
 
 ## Scripts SQL por tipo de comando
 
