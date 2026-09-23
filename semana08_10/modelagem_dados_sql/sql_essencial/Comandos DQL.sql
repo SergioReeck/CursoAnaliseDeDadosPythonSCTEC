@@ -54,5 +54,3 @@ JOIN itens_pedido
     ON pedidos.id_pedido = itens_pedido.id_pedido
 JOIN produtos
     ON itens_pedido.id_produto = produtos.id_produto;
-
-

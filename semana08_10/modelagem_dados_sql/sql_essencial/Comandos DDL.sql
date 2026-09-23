@@ -79,8 +79,3 @@ CREATE TABLE itens_pedido (
     FOREIGN KEY (id_produto)
         REFERENCES produtos(id_produto)
 );
-
-
-
-
-

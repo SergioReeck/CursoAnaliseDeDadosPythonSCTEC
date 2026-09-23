@@ -9,7 +9,8 @@ SELECT
 	p.status,
 	p.valor_total
 FROM clientes c 
-LEFT JOIN pedidos p ON c.id_cliente = p.id_cliente; 
+LEFT JOIN pedidos p 
+	ON c.id_cliente = p.id_cliente; 
 
 -- USANDO LEFT JOIN COM AS TABELAS DE CLIENTES E PEDIDOS COM FILTRO NULL
 
@@ -22,6 +23,6 @@ SELECT
 	p.status,
 	p.valor_total
 FROM clientes c 
-LEFT JOIN pedidos p ON c.id_cliente = p.id_cliente
+LEFT JOIN pedidos p 
+	ON c.id_cliente = p.id_cliente
 WHERE p.id_pedido IS NULL;
-
